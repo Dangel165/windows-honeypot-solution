@@ -4,7 +4,7 @@
 
 | 이름 | 역할 | 담당 업무 |
 |------|------|-----------|
-| Dangel | 프로젝트 리더 & 보안 개발 |  네트워크 격리, 방화벽 API, Deception Engine,악성코드의 Anti-VM 탐지 회피를 위한 하드웨어 스푸핑 개발 |
+| Dangel | 프로젝트 리더 & 보안 개발 |  네트워크 격리, 방화벽 API, Deception Engine,악성코드의 Anti-VM 회피를 위한 하드웨어 스푸핑 개발 |
 | 743R | 백엔드 개발 | 아키텍처 설계, 핵심 서비스 구현|
 | Nyx | 시스템 개발자 | Windows Sandbox 통합, 파일 모니터링 |
 | SC | UI/UX 개발자 | WPF 인터페이스, Visual Replay Engine, 대시보드 |
