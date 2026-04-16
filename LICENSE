@@ -2,47 +2,47 @@ PROPRIETARY LICENSE
 
 Copyright (c) 2026 Key Root Team. All Rights Reserved.
 
-이 프로젝트는 Key Root 팀의 저작권으로 보호되며 무단 복제, 배포 및 사용이 금지됩니다.
+This project is protected by copyright and unauthorized reproduction, distribution, and use are prohibited.
 
-## 저작권 고지
+## Copyright Notice
 
-본 소프트웨어 및 관련 문서 파일(이하 "소프트웨어")는 Key Root 팀의 독점 자산입니다.
+This software and associated documentation files (the "Software") are the exclusive property of the Key Root Team.
 
-## 사용 제한
+## Usage Restrictions
 
-다음 행위는 명시적으로 금지됩니다:
+The following actions are explicitly prohibited:
 
-1. 소프트웨어의 전체 또는 일부를 복제, 수정, 병합, 게시, 배포, 재라이선스 또는 판매하는 행위
-2. 소프트웨어를 기반으로 파생 저작물을 생성하는 행위
-3. 소프트웨어의 소스 코드를 역공학, 디컴파일 또는 역어셈블하는 행위
-4. 저작권 고지 또는 기타 소유권 표시를 제거하거나 변경하는 행위
+1. Copying, modifying, merging, publishing, distributing, sublicensing, or selling copies of the Software, in whole or in part
+2. Creating derivative works based on the Software
+3. Reverse engineering, decompiling, or disassembling the Software's source code
+4. Removing or altering any copyright notices or other proprietary markings
 
-## 허용된 사용
+## Permitted Use
 
-본 소프트웨어는 다음 목적으로만 제공됩니다:
+This Software is provided solely for the following purposes:
 
-- 교육 및 연구 목적의 검토
-- Key Root 팀이 명시적으로 승인한 경우에 한함
+- Review for educational and research purposes
+- Only when explicitly authorized by the Key Root Team
 
-## 법적 고지
+## Legal Notice
 
-이 소프트웨어는 합법적인 사이버 보안 방어 및 연구 목적으로만 사용되어야 합니다. 
-사용자는 해당 관할권의 모든 관련 법률 및 규정을 준수할 책임이 있습니다. 
-Key Root 팀은 이 소프트웨어의 오용, 불법적 사용 또는 무단 사용에 대해 책임을 지지 않습니다.
+This software is intended for use only for legitimate cybersecurity defense and research purposes.
+Users are responsible for compliance with all applicable laws and regulations in their jurisdiction.
+The Key Root Team assumes no responsibility for misuse, illegal use, or unauthorized use of this software.
 
-## 보증 부인
+## Disclaimer of Warranty
 
-본 소프트웨어는 "있는 그대로" 제공되며, 명시적이든 묵시적이든 어떠한 종류의 보증도 제공하지 않습니다.
-상품성, 특정 목적에의 적합성 및 비침해에 대한 묵시적 보증을 포함하되 이에 국한되지 않습니다.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
-어떠한 경우에도 저작권 보유자는 계약, 불법 행위 또는 기타 행위에 관계없이 
-소프트웨어 또는 소프트웨어의 사용 또는 기타 거래와 관련하여 발생하는 
-청구, 손해 또는 기타 책임에 대해 책임을 지지 않습니다.
+IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH 
+THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## 연락처
+## Contact
 
-라이선스 문의: Key Root Team
-프로젝트 저장소: https://github.com/Dangel165/windows-honeypot-solution
+License Inquiries: Key Root Team
+Project Repository: https://github.com/Dangel165/windows-honeypot-solution
 
 ---
 
