@@ -9,7 +9,6 @@
 | Nyx | 시스템 개발자 | Windows Sandbox 통합, 파일 모니터링 |
 | SC | UI/UX 개발자 | WPF 인터페이스, Visual Replay Engine, 대시보드 |
 | HCK | 데이터 분석가 | 위협 인텔리전스, 행동 분석, Community Intelligence |
-| POE | QA & 테스트 엔지니어 | 단위 테스트, 속성 기반 테스트, 통합 테스트 |
 
 C# (.NET 8+), WPF, Windows API를 사용하여 구축된 종합 방어형 사이버 보안 플랫폼으로, 사이버 공격을 탐지하고 분석하기 위한 격리된 샌드박스 환경을 생성합니다.
 
